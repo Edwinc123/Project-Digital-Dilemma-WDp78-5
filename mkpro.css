@@ -1,0 +1,16 @@
+th, td {
+  border: 1px solid black;
+  font-family: 'Bubblegum Sans', sans-serif;
+}
+th {
+  letter-spacing: 1px;
+}
+
+h1{
+    font-family: 'Georgia', serif;
+}
+
+p {
+  margin-left: 80px;
+  margin-right: 80px;
+}
